@@ -1,0 +1,11 @@
+venv*/
+build*/
+dist*/
+*.zip
+*.ipynb
+*.db
+MoneyKeeperCloudBackup*/
+data/
+processed/
+.vscode/
+__pycache__/
